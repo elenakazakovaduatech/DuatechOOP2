@@ -1,0 +1,5 @@
+	String name;
+	String ssn;
+	double accountBalance;
+	String accNum = "DUO-";
+	double intRate;
